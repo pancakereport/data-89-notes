@@ -82,6 +82,7 @@ project:
         - file: content/Chapter_10/00_Integrals_of_Multivariate_Functions.ipynb
           children:
             - file: content/Chapter_10/01_Iterated_Integration.ipynb
+            - file: content/Chapter_10/02_Conditional_Expectation.ipynb
         - file: content/Appendix/00_Appendix.ipynb
           children:
             - file: content/Appendix/01_Combinatorics_Helper.ipynb
