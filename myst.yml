@@ -85,6 +85,7 @@ project:
             - file: content/Chapter_10/02_Conditional_Expectation.ipynb
             - file: content/Chapter_10/03_Integration_on_Manifolds.ipynb
             - file: content/Chapter_10/04_Chapter_Summary.ipynb
+        - file: content/Chapter_11/00_Measuring_Association.ipynb
         - file: content/Appendix/00_Appendix.ipynb
           children:
             - file: content/Appendix/01_Combinatorics_Helper.ipynb
