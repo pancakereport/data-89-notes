@@ -91,6 +91,8 @@ project:
             - file: content/Chapter_11/02_Linear_Regression.ipynb
             - file: content/Chapter_11/03_Chapter_Summary.ipynb
         - file: content/Chapter_12/00_Estimation.ipynb
+          children:
+            - file: content/Chapter_12/01_Estimators.ipynb
         - file: content/Appendix/00_Appendix.ipynb
           children:
             - file: content/Appendix/01_Combinatorics_Helper.ipynb
