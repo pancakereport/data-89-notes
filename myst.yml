@@ -108,6 +108,7 @@ project:
             - file: content/Appendix/02_Distributions_Reference.ipynb
             - file: content/Appendix/03_Expectation_Properties.ipynb
             - file: content/Appendix/04_Demos_Glossary.ipynb
+            - file: content/Appendix/05_Content_Index.ipynb
 site:
   template: book-theme
   options:
